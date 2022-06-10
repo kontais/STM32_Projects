@@ -1,0 +1,62 @@
+
+lst/
+list/
+obj/
+output/
+
+*.d
+*.crf
+# JLink
+DebugConfig/
+JLinkLog.txt
+JLinkSettings.ini
+*.scvd
+
+# Keil
+*.plg
+*.uvgui*
+*.bak
+
+# Keil5
+DebugConfig/
+Listings/
+Objects/
+*.uvguix.*
+RTE/
+*.LST
+*.lst
+
+# Object files
+*.o
+*.OBJ
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.LIB
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CodeSys
+*.BIN
+*.SDB
+*.SYM
+*.ASD
+*.ci
+*.ri
+DEFAULT.DFR
+
+# Visual Studio
+*.sdf
+ipch/
+Debug/
