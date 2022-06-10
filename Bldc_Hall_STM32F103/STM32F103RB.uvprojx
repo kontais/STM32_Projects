@@ -10,6 +10,7 @@
       <TargetName>STM32F103RB</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
+      <pCCUsed>5060960::V5.06 update 7 (build 960)::.\ARMCC</pCCUsed>
       <uAC6>0</uAC6>
       <TargetOption>
         <TargetCommonOption>
@@ -338,7 +339,7 @@
               <MiscControls></MiscControls>
               <Define>USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>.\cmsis;.\cmsis_boot;.\STM32F10x_StdPeriph_Driver\inc;.\Drive\BLDC\inc;.\Drive\PID\inc;..\BLDC;.\Drive\KEY\inc;.\Drive\USART2\inc;.\Drive;.\Drive\delay;.\TFT_LCD;.\TFT_LCD\SPI;.\TFT_LCD\sys;.\TFT_LCD\LCD;.\Drive\RCC;.\Drive\Flash;..\STM32F103RBT6_BLDC控制PID</IncludePath>
+              <IncludePath>.\cmsis;.\cmsis_boot;.\STM32F10x_StdPeriph_Driver\inc;.\Drive\BLDC\inc;.\Drive\PID\inc;..\BLDC;.\Drive\KEY\inc;.\Drive\USART2\inc;.\Drive;.\Drive\delay;.\TFT_LCD;.\TFT_LCD\SPI;.\TFT_LCD\sys;.\TFT_LCD\LCD;.\Drive\RCC;.\Drive\Flash;..\STM32F103RBT6_BLDC控制PID;..\Bldc_Hall_STM32F103</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
